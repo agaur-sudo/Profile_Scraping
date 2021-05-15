@@ -7,4 +7,3 @@ I wrote two python scripts, namely "LinkedInWebcrawler2019.py" and "ProfileCrawl
 
 I ran my analysis on about 1,000 employee profiles. The analysis code is in the Jypyter python notebook "profileScraper.ipynb". 
 
-Here is a blog post I wrote about the project and results: http://nycdatascience.com/blog/student-works/web-scraping/web-scraping-linkedin:-exploring-the-background-of-a-data-scientist/
